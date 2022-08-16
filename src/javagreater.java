@@ -1,8 +1,4 @@
-
-
-
-
-public class Greater
+public class javagreater
 {
     public static void main (String[]args) {
 
@@ -17,3 +13,4 @@ public class Greater
             System.out.println("both are equal");
     }
 }
+
